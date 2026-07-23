@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SeongTaekChoi/code-test/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/SeongTaekChoi/code-test/tree/master/0733-flood-fill) |
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/SeongTaekChoi/code-test/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/SeongTaekChoi/code-test/tree/master/0733-flood-fill) |
@@ -25,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/SeongTaekChoi/code-test/tree/master/0226-invert-binary-tree) |
 ## Array
 |  |
