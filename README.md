@@ -52,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SeongTaekChoi/code-test/tree/master/0547-number-of-provinces) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SeongTaekChoi/code-test/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SeongTaekChoi/code-test/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SeongTaekChoi/code-test/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
