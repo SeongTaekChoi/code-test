@@ -1,5 +1,6 @@
 class Solution:
     def __init__(self):
+        # 메모이제이션을 위한 초기화
         self.memory = [0] * 46
         self.memory[0] = 1
         self.memory[1] = 2
