@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/SeongTaekChoi/code-test/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/SeongTaekChoi/code-test/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/SeongTaekChoi/code-test/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/SeongTaekChoi/code-test/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SeongTaekChoi/code-test/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/SeongTaekChoi/code-test/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
