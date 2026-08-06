@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/SeongTaekChoi/code-test/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SeongTaekChoi/code-test/tree/master/0070-climbing-stairs) |
+| [1025-divisor-game](https://github.com/SeongTaekChoi/code-test/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SeongTaekChoi/code-test/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SeongTaekChoi/code-test/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/SeongTaekChoi/code-test/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/SeongTaekChoi/code-test/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -92,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/SeongTaekChoi/code-test/tree/master/0392-is-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SeongTaekChoi/code-test/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SeongTaekChoi/code-test/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SeongTaekChoi/code-test/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
