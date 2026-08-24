@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SeongTaekChoi/code-test/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/SeongTaekChoi/code-test/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/SeongTaekChoi/code-test/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SeongTaekChoi/code-test/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SeongTaekChoi/code-test/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SeongTaekChoi/code-test/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/SeongTaekChoi/code-test/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SeongTaekChoi/code-test/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SeongTaekChoi/code-test/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/SeongTaekChoi/code-test/tree/master/0704-binary-search) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SeongTaekChoi/code-test/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
